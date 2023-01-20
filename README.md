@@ -7,7 +7,7 @@ This repo mainly focus on Redux.
 <img flex="1" alt="Screenshot_20230120_135229" src="https://user-images.githubusercontent.com/106628860/213656936-798a3879-3f79-4f29-a85f-2ad3a13d83e3.png">
 <img flex="1"  alt="Screenshot_20230120_135547" src="https://user-images.githubusercontent.com/106628860/213657234-2e46b974-ce7f-4afb-9f4e-3ffc07efaa45.png">
 <img flex="1"  alt="Screenshot_20230120_141055" src="https://user-images.githubusercontent.com/106628860/213657562-f209db83-60d5-4190-ac4a-3be058b80992.png">
-<img flex="1"  src="https://media.giphy.com/media/rOetkxgPx6zuDYWEMR/giphy.gif" />
+<img width="100%"  src="https://media.giphy.com/media/rOetkxgPx6zuDYWEMR/giphy.gif" />
 
 
 
