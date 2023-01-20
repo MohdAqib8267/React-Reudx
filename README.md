@@ -7,6 +7,7 @@ This repo mainly focus on Redux.
 <img width="503" alt="Screenshot_20230120_135229" src="https://user-images.githubusercontent.com/106628860/213656936-798a3879-3f79-4f29-a85f-2ad3a13d83e3.png">
 <img width="494" alt="Screenshot_20230120_135547" src="https://user-images.githubusercontent.com/106628860/213657234-2e46b974-ce7f-4afb-9f4e-3ffc07efaa45.png">
 <img width="493" alt="Screenshot_20230120_141055" src="https://user-images.githubusercontent.com/106628860/213657562-f209db83-60d5-4190-ac4a-3be058b80992.png">
+<iframe src="https://giphy.com/embed/rOetkxgPx6zuDYWEMR" width="480" height="202" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/react-redux-sharing-state-rOetkxgPx6zuDYWEMR">via GIPHY</a></p>
 
 
 
