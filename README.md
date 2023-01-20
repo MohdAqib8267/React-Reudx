@@ -8,6 +8,9 @@ This repo mainly focus on Redux.
 <img flex="1"  alt="Screenshot_20230120_135547" src="https://user-images.githubusercontent.com/106628860/213657234-2e46b974-ce7f-4afb-9f4e-3ffc07efaa45.png">
 <img flex="1"  alt="Screenshot_20230120_141055" src="https://user-images.githubusercontent.com/106628860/213657562-f209db83-60d5-4190-ac4a-3be058b80992.png">
 <img width="100%"  src="https://media.giphy.com/media/rOetkxgPx6zuDYWEMR/giphy.gif" />
+<img flex="1" alt="image" src="https://user-images.githubusercontent.com/106628860/213661521-dc4e3583-e93b-4c0b-8fc4-9f020743fb5e.png">
+<img flex="1" alt="image" src="https://user-images.githubusercontent.com/106628860/213661720-57f61e1a-30f7-4515-8a6b-0412cb2068ae.png">
+
 
 
 
