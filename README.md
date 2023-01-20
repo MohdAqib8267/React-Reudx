@@ -16,6 +16,8 @@ This repo mainly focus on Redux.
 <img  alt="Screenshot_20230120_173650" src="https://user-images.githubusercontent.com/106628860/213692740-018beedf-dd07-42be-bd54-0d06421bd26b.png">
 <img alt="Screenshot_20230120_174105" src="https://user-images.githubusercontent.com/106628860/213692774-9685413c-0897-4a0d-92af-91228111ca3b.png">
 <img  alt="Screenshot_20230120_174321" src="https://user-images.githubusercontent.com/106628860/213692795-cbdd855b-5816-4bde-b070-8ccefd8a2752.png">
+<img  alt="Screenshot_20230120_221159" src="https://user-images.githubusercontent.com/106628860/213754720-e0a0c4bb-2d38-4b14-8343-f3a4803b84c9.png">
+
 
 
 
